@@ -1,3 +1,5 @@
+> **Moved.** This project now lives in [patina-desktop](https://github.com/Sector-F-Labs/patina-desktop/tree/master/reader), in the `reader/` folder, with its history. This repository is no longer updated.
+
 # Reader
 
 ![Reader's icon](docs/icon.png)
